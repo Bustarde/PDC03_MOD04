@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\bin\Debug\netstandard2.0\pdc03_module5_act1.deps.json
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\bin\Debug\netstandard2.0\pdc03_module5_act1.dll
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\bin\Debug\netstandard2.0\pdc03_module5_act1.pdb
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\pdc03_module5_act1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\pdc03_module5_act1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\activity01.xaml.g.cs
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\pdc03_module5_act1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\pdc03_module5_act1.AssemblyInfo.cs
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\pdc03_module5_act1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\pdc03_module5_act1.dll
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\refint\pdc03_module5_act1.dll
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\pdc03_module5_act1.pdb
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\ref\pdc03_module5_act1.dll
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\activity02.xaml.g.cs
