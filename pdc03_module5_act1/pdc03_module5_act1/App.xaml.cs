@@ -10,6 +10,7 @@ namespace pdc03_module5_act1
         {
             InitializeComponent();
 
+            //MainPage = new NavigationPage(new Home());
             MainPage = new NavigationPage(new MainPage());
         }
 

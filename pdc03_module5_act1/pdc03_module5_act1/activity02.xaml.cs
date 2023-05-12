@@ -33,12 +33,20 @@ namespace pdc03_module5_act1
 
         private void Add_item(object sender, EventArgs e)
         {
+            var menuItem = sender as MenuItem;
+            if (menuItem != null)
+            {
 
+            }
         }
 
         private void Edit_item(object sender, EventArgs e)
         {
+            var menuItem = sender as MenuItem;
+            if (menuItem != null)
+            {
 
+            }
         }
 
         private void Delete_item(object sender, EventArgs e)

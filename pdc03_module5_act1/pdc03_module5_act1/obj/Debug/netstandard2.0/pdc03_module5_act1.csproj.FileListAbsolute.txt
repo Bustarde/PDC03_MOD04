@@ -15,3 +15,9 @@ C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_a
 C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\pdc03_module5_act1.pdb
 C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\ref\pdc03_module5_act1.dll
 C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\activity02.xaml.g.cs
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\Home.xaml.g.cs
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\activity03.xaml.g.cs
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\activity03Page2.xaml.g.cs
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\activity04.xaml.g.cs
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\activity05.xaml.g.cs
+C:\Users\User\source\repos\pdc03_module5_act1\pdc03_module5_act1\pdc03_module5_act1\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
